@@ -1,0 +1,13 @@
+{
+  "name": "travelo-travel-site",
+  "version": "1.0.0",
+  "description": "A parallax travel website showcasing beautiful destinations",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": ["travel", "parallax", "website"],
+  "author": "",
+  "license": "MIT"
+}
