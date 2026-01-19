@@ -4,3 +4,4 @@ This is a beautiful travel website that uses parallax smooth scrolling effects t
 
 
 Link: https://github.com/Shubhan123123/Travelo-travel-site
+
